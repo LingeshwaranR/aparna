@@ -20,7 +20,7 @@
 **PATIENT APPOINTMENT SYSTEM** using visual studio and SQL.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Patient appointment system aims to provide easy way to make appointment to doctor.Doctor can accept or reject the appointment and he or she can specify the reason to patient.My role in this project is designning user interface and handling database.
 
-### AREA OF INTREST:
+### AREA OF INTRES
 
 - Database Management System
 - Object Oriented Analysis and Design
